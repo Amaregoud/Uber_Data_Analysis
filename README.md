@@ -45,7 +45,7 @@ It covers **data extraction, cleaning, transformation, and visualization**, resu
 - Drill-through & filters for detailed analysis.  
 - Comparison of driver vs customer cancellations.  
 - Geographic insights for ride distribution.  
-![Overall Dashboard](Screenshot 2025-09-14 112503.png)
+[Overall Dashboard](https://github.com/Amaregoud/Uber_Data_Analysis/blob/main/Screenshot%202025-09-14%20112503.png)
 ---
 
 ## 🚀 How to Use  
